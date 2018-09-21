@@ -1,0 +1,48 @@
+_repo: Vingt-mille-lieues-sous-les-mers_54873
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Riou, Edouard
+    aliases:
+    - Riou
+    - Riou, Édouard
+    - Riou, E. (Edouard)
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+  - agent_name: Neuville, Alphonse de
+    gutenberg_agent_id: '48081'
+    url: http://www.gutenberg.org/2009/agents/48081
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf:
+- FR Jeunesse
+- FR Science fiction
+- FR Littérature
+gutenberg_issued: '2017-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54873'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vingt mille lieues sous les mers
+url: http://www.gutenberg.org/ebooks/54873
