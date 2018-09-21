@@ -1,5 +1,5 @@
 _repo: Vingt-mille-lieues-sous-les-mers_54873
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Riou, Edouard
@@ -14,6 +14,9 @@ contributor:
   - agent_name: Neuville, Alphonse de
     gutenberg_agent_id: '48081'
     url: http://www.gutenberg.org/2009/agents/48081
+covers:
+- cover_type: archival
+  image_path: 54873-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -30,6 +33,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54873#Vingt-mille-lieues-sous-les-mers
 gutenberg_bookshelf:
 - FR Jeunesse
 - FR Science fiction
